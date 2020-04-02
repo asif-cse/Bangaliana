@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "619304253167",
+    "firebase_url": "https://foodvilage-26d13.firebaseio.com",
+    "project_id": "foodvilage-26d13",
+    "storage_bucket": "foodvilage-26d13.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619304253167:android:8bda2a6d2205038faf4d1a",
+        "android_client_info": {
+          "package_name": "com.example.foodvilage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619304253167-5j9ufqdbm0kn3gtng63c7sc30svhbhfn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6njJUFHY3C36ojIQq870FgZS6UX_fPk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619304253167-5j9ufqdbm0kn3gtng63c7sc30svhbhfn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
